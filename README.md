@@ -27,7 +27,7 @@ TravelWebsite/
 └── 📖 README.md                 # Documentation
 
 ## 🌐 Live Demo
-[View Live Website](https://sid059.github.io/Sid059.github.io-projects-TravelWebsite/)
+[View Live Website](https://sid059.github.io/travel-website/)
 
 ## 🛠 Technologies Used
 - HTML5
